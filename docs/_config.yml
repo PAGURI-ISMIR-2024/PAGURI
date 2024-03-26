@@ -2,3 +2,8 @@ theme: jekyll-theme-cayman
 title: 
 description: 
 show_downloads: False 
+
+colors:
+    gradient_left: "#33D7FF"
+    #gradient_right: "#159957"
+    #header: "#fff"
