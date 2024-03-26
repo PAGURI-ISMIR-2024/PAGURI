@@ -4,6 +4,6 @@ description:
 show_downloads: False 
 
 colors:
-    gradient_left: "#33D7FF"
-    #gradient_right: "#159957"
+    gradient_left: "#155799"
+    gradient_right: "#33D7FF"
     #header: "#fff"
