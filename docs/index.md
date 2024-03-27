@@ -19,6 +19,7 @@ The graphical user interface of PAGURI.
 ### Musical knowledge and experience with AI tools
 | ID  | Question  |  Type | 
 |---|---|---|
+
 | Q1  |  I spend a lot of my free time doing music-related activities |   |
 | Q2  |  I enjoy writing about music, for example on blogs and forums. |   |
 | Q3  |   |   |
