@@ -66,6 +66,11 @@ The graphical user interface of PAGURI.
 | Q20  |Do you use text-to-music AI tools ? Which ones ?|   |
 
 
+<figure>
+  <img src="figures/ai_music_quest_likert.png" alt=""/>
+  <figcaption> Questionnaire 2 Answers (Likert)</figcaption>
+</figure>
+
 ### Text-to-Music Interaction
 
 # Final Survey
