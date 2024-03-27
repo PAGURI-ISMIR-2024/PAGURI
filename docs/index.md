@@ -11,6 +11,11 @@ In recent years, text-to-music models have been the biggest breakthrough in auto
 
 ### paGUIri
 The graphical user interface of PAGURI.
+<figure>
+  <img src="figures/PAGUIri_1.png" alt="my alt text"/>
+  <figcaption>paGUIri Graphical User Interface</figcaption>
+</figure>
+
 
 ### Demographics Data
 
