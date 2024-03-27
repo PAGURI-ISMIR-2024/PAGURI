@@ -13,7 +13,26 @@ In recent years, text-to-music models have been the biggest breakthrough in auto
 The graphical user interface of PAGURI.
 <figure>
   <img src="figures/PaGUIri_1.png" alt="my alt text"/>
-  <figcaption>paGUIri Graphical User Interface</figcaption>
+  <figcaption>1) paGUIri Graphical User Interface.</figcaption>
+</figure>
+
+<figure>
+  <img src="figures/PaGUIri_2.png" alt="my alt text"/>
+  <figcaption>2) paGUIri audio generation window.</figcaption>
+</figure>
+
+<figure>
+  <img src="figures/PaGUIri_3.png" alt="my alt text"/>
+  <figcaption>3) paGUIri model personalization window</figcaption>
+</figure>
+
+<figure>
+    <img src="figures/PaGUIri_4.png" alt='missing' />
+    <figcaption>4) Options: Models Available</figcaption>
+</figure>
+<figure>
+    <img src="figures/PaGUIri_5.png" alt='missing' />
+    <figcaption>Options: fine-tuning time</figcaption>
 </figure>
 
 
