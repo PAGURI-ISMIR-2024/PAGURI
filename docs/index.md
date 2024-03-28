@@ -124,6 +124,7 @@ type of answers can be found in table 11 (appendix A.1).
     
     <figcaption>N.B. 33.3 % answered  <i>No, I don't</i> and 4.2% answered <i> <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
+
 - #### Q16: _I’m able to use _____ programming languages._
   <figure>
   <img src="figures/AI_MUSIC/Q16.png" alt=""/>
