@@ -103,6 +103,7 @@ The graphical user interface of PAGURI.
   <figure>
   <img src="figures/AI_MUSIC/Q16.png" alt=""/>
 </figure>
+
 - #### Q17: _I spend _______ on programming languages_
 <figure>
   <img src="figures/AI_MUSIC/Q17.png" alt=""/>
