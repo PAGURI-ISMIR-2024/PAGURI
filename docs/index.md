@@ -54,7 +54,7 @@ The graphical user interface of PAGURI.
 | Q8  |I engaged in regular, daily practice of a musical instrument (including voice) for ____ years|   |
 | Q9  |At the peak of my interest, I practiced _____ hours per day on my primary instrument.|   |
 | Q10  |I can play ______ musical instruments.|   |
-| Q11  |11 - What kind of instrument can you play ? Ex: piano,guitar,flute etc...|   |
+| Q11  |What kind of instrument can you play ? Ex: piano,guitar,flute etc...|   |
 | Q12  |I often read or search the internet for things related to AI tools.|   |
 | Q13  |AI can be a tool to support human activities.|   |
 | Q14  |Were you already aware of the existence of AI tools ? Which ones ?|   |
@@ -91,6 +91,11 @@ The graphical user interface of PAGURI.
   <img src="figures/AI_MUSIC/Q10.png" alt=""/>
 </figure>
 
+- #### Q11: _What kind of instrument can you play ? Ex: piano,guitar,flute etc..._
+<figure>
+  <img src="figures/AI_MUSIC/Q11.png" alt=""/>
+    <figcaption>N.B. 15.7 % answered _I do NOT play any instrument_</figcaption>
+</figure>
 
 ### Text-to-Music Interaction
 
