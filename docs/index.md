@@ -94,7 +94,7 @@ The graphical user interface of PAGURI.
 - #### Q11: _What kind of instrument can you play ? Ex: piano,guitar,flute etc..._
 <figure>
   <img src="figures/AI_MUSIC/Q11.png" alt=""/>
-    <figcaption>N.B. 15.7 % answered _I do NOT play any instrument_**</figcaption>
+    <figcaption>N.B. 15.7 % answered  <i>I do NOT play any instrument </i></figcaption>
 </figure>
 
 - #### Q14: _Were you already aware of the existence of AI tools ? Which ones ?_
