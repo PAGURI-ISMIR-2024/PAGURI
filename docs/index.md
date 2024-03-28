@@ -75,14 +75,17 @@ The graphical user interface of PAGURI.
 <figure>
   <img src="figures/AI_MUSIC/Q7.png" alt=""/>
 </figure>
+
 - #### Q8: _I engaged in regular, daily practice of a musical instrument (including voice) for ____ years_
 <figure>
   <img src="figures/AI_MUSIC/Q8.png" alt=""/>
 </figure>
+
 - #### Q9: _At the peak of my interest, I practiced _____ hours per day on my primary instrument._
 <figure>
   <img src="figures/AI_MUSIC/Q9.png" alt=""/>
 </figure>
+
 - #### Q10: _I can play ______ musical instruments._
 <figure>
   <img src="figures/AI_MUSIC/Q10.png" alt=""/>
