@@ -98,7 +98,18 @@ The graphical user interface of PAGURI.
 </figure>
 
 - #### Q14: _Were you already aware of the existence of AI tools ? Which ones ?_
+  <figure>
+  <img src="figures/AI_MUSIC/Q14.png" alt=""/>
+    
+    <figcaption>N.B. 16.7 % answered  <i>No, I don't</i> and 8.3% answered <i> <i>Yes, but I don’t remember the names </i></figcaption>
+</figure>
+
 - #### Q15: _Do you use AI tools ? Which ones ?_
+  <figure>
+  <img src="figures/AI_MUSIC/Q15.png" alt=""/>
+    
+    <figcaption>N.B. 33.3 % answered  <i>No, I don't</i> and 4.2% answered <i> <i>Yes, but I don’t remember the names </i></figcaption>
+</figure>
 - #### Q16: _I’m able to use _____ programming languages._
   <figure>
   <img src="figures/AI_MUSIC/Q16.png" alt=""/>
@@ -110,11 +121,32 @@ The graphical user interface of PAGURI.
 </figure>
 
 - #### Q18: _What is your relationship with music ?_
-  
-- #### Q19: _Were you already aware of the existence of AI tools in text-to-music? Which ones ?_
-  
-- #### Q20: _Do you use text-to-music AI tools ? Which ones ?_
+  <figure>
+  <img src="figures/AI_MUSIC/Q18.png" alt=""/>
+</figure>
+- Participants who chose _other_ gave the following answers:
+- Dj/Mixing Engineer
+- Music producer, musician
+- I simply love listen to music and play non professionally
+- Sono titolare di una piccola etichetta discografica
+- I'm a singer and I love to listen to new stuff and new genres
+- Sono un'insegnante di danza, lavoro con la musica
+- both listener and playing in an acoustic duo
+- I study in the conservatory
+- Former student, former band member, amateur arranger
+- I am a solo artist
+- insegnante di danza
 
+- #### Q19: _Were you already aware of the existence of AI tools in text-to-music? Which ones ?_
+<figure>
+  <img src="figures/AI_MUSIC/Q19.png" alt=""/>
+<figcaption>N.B. 37.5 % answered  <i>No, I don't</i> and 37.5% answered <i> <i>Yes, but I don’t remember the names </i></figcaption>
+</figure>
+
+- #### Q20: _Do you use text-to-music AI tools ? Which ones ?_
+<figure>
+  <img src="figures/AI_MUSIC/Q20.png" alt=""/>
+</figure>
 
 ### Text-to-Music Interaction
 
