@@ -177,6 +177,14 @@ Participants who chose _other_ gave the following answers:
   <img src="figures/AI_MUSIC/Q20.png" alt=""/>
 </figure>
 
-### Text-to-Music Interaction
+### Text-to-Music Interaction (Model Evaluation)
 
-# Final Survey
+| ID  | Question  |  Type | 
+|:---|:---|:---|
+| Q21  |  The generated audio(s) is consistent with respect to the input prompt  |  A |
+| Q22  |  The audio(s) generated is consistent with respect to my expectations |  A  |
+| Q23  | The quality of the audio(s) generated is consistent with my expectations  |  A  |
+
+
+
+### Final Survey
