@@ -209,7 +209,3 @@ Participants who chose _other_ gave the following answers:
 | Q35  | Insert here your suggestions and comments|  O |
 
 - #### Answers to questions evaluated on a Likert Scale
-<figure>
-  <img src="figures/AI_MUSIC/ai_music_quest_likert.png" alt=""/>
-  <figcaption> Questionnaire 2 Answers (Likert)</figcaption>
-</figure>
