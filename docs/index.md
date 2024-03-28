@@ -108,8 +108,11 @@ The graphical user interface of PAGURI.
 <figure>
   <img src="figures/AI_MUSIC/Q17.png" alt=""/>
 </figure>
+
 - #### Q18: _What is your relationship with music ?_
+  
 - #### Q19: _Were you already aware of the existence of AI tools in text-to-music? Which ones ?_
+  
 - #### Q20: _Do you use text-to-music AI tools ? Which ones ?_
 
 
