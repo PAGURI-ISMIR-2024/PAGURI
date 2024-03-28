@@ -187,7 +187,7 @@ Participants who chose _other_ gave the following answers:
 
 - #### Answers to questions evaluated on a Likert Scale
 <figure>
-  <img src="figures/MODEL_EVAL/boxplot" alt=""/>
+  <img src="figures/MODEL_EVAL/boxplot.png" alt=""/>
   <figcaption> Questionnaire 3 Answers (Likert)</figcaption>
 </figure>
 
