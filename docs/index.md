@@ -159,7 +159,7 @@ Participants who chose _other_ gave the following answers:
 - I study in the conservatory
 
 - Former student, former band member, amateur arranger
-- 
+  
 - I am a solo artist
 
 - Dance Teacher<superscript>*</superscript>
