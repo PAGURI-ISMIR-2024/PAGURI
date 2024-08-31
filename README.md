@@ -4,13 +4,20 @@
 
 <!-- <img width="800px" src="docs/new-generic-style-transfer-headline.svg"> -->
 
+Repo supporting Transactions of the Information Retrieval Society (TISMIR) submission
+
 </div>
+
 
 ### Abstract
 In recent years, text-to-music models have been the biggest breakthrough in automatic music generation. While they are unquestionably a showcase of technological progress, it is not clear yet how they can be realistically integrated into the artistic practice of musicians and music practitioners. This paper aims to address this question via Prompt Audio Generation User Research Investigation (PAGURI), a user experience study where we leverage recent text-to-music developments to study how musicians and practitioners interact with these systems, evaluating their satisfaction levels. We developed an online tool through which users can generate music samples and/or apply recently proposed personalization techniques, based on fine-tuning, to allow the text-to-music model to generate sounds closer to their needs and preferences. Using questionnaires, we analyzed how participants interacted with the proposed tool, to understand the effectiveness of text-to-music models in enhancing users' creativity. Results show that even if the audio samples generated and their quality may not always meet user expectations, the majority of the participants would incorporate the tool in their creative process. Furthermore, they provided insights into potential enhancements for the system and its integration into their music practice. 
 
 ![image](docs/figures/PAGURI_Logo.png)
 
+
+### Code
+
+The jupyter notebook PAGURI_interface.ipynb contains all the necessary code needed to run the PAGURI interface. Before running PAGURI, it is necessary to clone the current repo and install the requirements contained in requirements.txt
 
 ## ACKNOWLEDGMENTS
 This code is heavely based on the following references : 
