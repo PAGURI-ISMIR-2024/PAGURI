@@ -1,3 +1,6 @@
+
+# User interactions with the model
+
 # User 220910
 
 | Iteration | Prompt | 
