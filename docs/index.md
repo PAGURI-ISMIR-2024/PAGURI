@@ -5,11 +5,11 @@
 </p>
 
 
-### Abstract 
+## Abstract 
 
 In recent years, text-to-music models have been the biggest breakthrough in automatic music generation. While they are unquestionably a showcase of technological progress, it is not clear yet whether and how they can realistically be integrated and used as effective tools in the artistic practice of musicians and music practitioners. This paper aims to address this question via Prompt Audio Generation User Research Investigation (PAGURI), a user experience study where we leverage recent text-to-music developments to study how musicians and practitioners interact with these systems, evaluating their satisfaction levels. We developed an online tool where users are asked to generate and/or modify music samples of their choice by applying recently proposed personalization techniques, based on fine-tuning and/or prompting a text-to-music model. Through the use of questionnaires and interviews, we analyzed how participants interacted with the proposed tool. Results show that even if the audio samples generated and their quality may not always meet user expectations, the majority acknowledge consistency between input prompts and generated audio. Moreover, they express willingness to incorporate the proposed tool into their creative process. Users also offer suggestions on how the system could be improved and integrated into their music practice.
 
-### paGUIri
+## paGUIri
 The graphical user interface of PAGURI.
 <figure>
   <img src="figures/PaGUIri_1.png" alt="my alt text"/>
@@ -23,35 +23,34 @@ The graphical user interface of PAGURI.
 
 <figure>
   <img src="figures/PaGUIri_3.png" alt="my alt text"/>
-  <figcaption>3) paGUIri model personalization window</figcaption>
+  <figcaption>3) paGUIri model personalization window.</figcaption>
 </figure>
 
 <figure>
     <img src="figures/PaGUIri_4.png" alt='missing' />
-    <figcaption>4) Options: Models Available</figcaption>
+    <figcaption>4) Options: available models for generation. </figcaption>
 </figure>
 <figure>
     <img src="figures/PaGUIri_5.png" alt='missing' />
-    <figcaption>5) Options: fine-tuning time</figcaption>
+    <figcaption>5) Options: fine-tuning time.</figcaption>
 </figure>
 
-### Questionnaire Description
+## Questionnaire Description
 The answers to the questionnaires are of 5 types:
 - **Type A**: multiple choice options structured on a Likert scale from 1 to 5, where each score quantifies the
 level of approval in an increasing way, as shown in table 8 (appendix A.1).
 - **Type B**: multiple choice options representing different time frames. This kind of answer is provided to a
 question regarding the amount of time a user spends or dedicates to a specific action, as shown in table 9
-(appendix A.1).
-- **Type C**: multiple choice consisting of numbers ranging from "0" to "4 or more". The kind of answer is
+(Appendix A.1).
+- **Type C**: multiple choice consisting of numbers ranging from "0" to "4 or more". This kind of answer is
 linked to a quantitative question. 
-- **Type D**: a mixture of multiple choices and open answer. Typically there are one or two closed choices
-("No..." or "Yes, but...") and one open answer (identified with □: .......... ). More details regarding this
-type of answers can be found in table 11 (appendix A.1).
+- **Type D**: a mixture of multiple-choice and open answers. Typically, there are one or two closed choices
+("No..." or "Yes, but ...") and one open answer (identified with □: .......... ). More details regarding this
+type of answer can be found in Table 11 (Appendix A.1).
 - **Type O**: open answers in which the user can respond openly through text (□ : .......... )
 
 
-### Demographics Data
-
+## Demographic Data Questionnaire and Answers
 
 
 ### Musical knowledge and experience with AI tools
@@ -68,18 +67,18 @@ type of answers can be found in table 11 (appendix A.1).
 | Q8  |I engaged in regular, daily practice of a musical instrument (including voice) for ____ years| C  |
 | Q9  |At the peak of my interest, I practiced _____ hours per day on my primary instrument.|  C |
 | Q10  |I can play ______ musical instruments.|   C|
-| Q11  |What kind of instrument can you play ? Ex: piano,guitar,flute etc...|   D|
+| Q11  |What kind of instrument can you play? Ex: piano, guitar, flute, etc...|   D|
 | Q12  |I often read or search the internet for things related to AI tools.| A  |
 | Q13  |AI can be a tool to support human activities.|A   |
-| Q14  |Were you already aware of the existence of AI tools ? Which ones ?| D  |
-| Q15  |Do you use AI tools ? Which ones ?| D  |
+| Q14  |Were you already aware of the existence of AI tools? Which ones ?| D  |
+| Q15  |Do you use AI tools? Which ones ?| D  |
 | Q16  |I’m able to use _____ programming languages.| C  |
 | Q17  |I spend _______ on programming languages.|B   |
 | Q18  |What is your relationship with music ?| O  |
 | Q19  |Were you already aware of the existence of AI tools in text-to-music? Which ones ?|D   |
 | Q20  |Do you use text-to-music AI tools ? Which ones ?| D  |
 
-- #### Answers to questions evaluated on a Likert Scale
+#### Answers to questions evaluated on a Likert Scale
 <figure>
   <img src="figures/AI_MUSIC/ai_music_quest_likert.png" alt=""/>
   <figcaption> Questionnaire 2 Answers (Likert)</figcaption>
@@ -105,20 +104,20 @@ type of answers can be found in table 11 (appendix A.1).
   <img src="figures/AI_MUSIC/Q10.png" alt=""/>
 </figure>
 
-- #### Q11: _What kind of instrument can you play ? Ex: piano,guitar,flute etc..._
+- #### Q11: _What kind of instrument can you play? Ex: piano, guitar, flute, etc..._
 <figure>
   <img src="figures/AI_MUSIC/Q11.png" alt=""/>
     <figcaption>N.B. 15.7 % answered  <i>I do NOT play any instrument </i></figcaption>
 </figure>
 
-- #### Q14: _Were you already aware of the existence of AI tools ? Which ones ?_
+- #### Q14: _Were you already aware of the existence of AI tools? Which ones ?_
   <figure>
   <img src="figures/AI_MUSIC/Q14.png" alt=""/>
     
     <figcaption>N.B. 16.7 % answered  <i>No, I don't</i> and 8.3% answered <i> <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
 
-- #### Q15: _Do you use AI tools ? Which ones ?_
+- #### Q15: _Do you use AI tools? Which ones ?_
   <figure>
   <img src="figures/AI_MUSIC/Q15.png" alt=""/>
     
@@ -177,7 +176,7 @@ Participants who chose _other_ gave the following answers:
   <img src="figures/AI_MUSIC/Q20.png" alt=""/>
 </figure>
 
-### Text-to-Music Interaction (Model Evaluation)
+## Text-to-Music Interaction (Model Evaluation) Questionnaire and Answers
 
 | ID  | Question  |  Type | 
 |:---|:---|:---|
@@ -191,21 +190,21 @@ Participants who chose _other_ gave the following answers:
   <figcaption> Questionnaire 3 Answers (Likert)</figcaption>
 </figure>
 
-### Final Survey
+## Final Survey and Answers
 
-| ID  | Question  |  Type | 
+| ID  | Question  |  Question type | 
 |:---|:---|:---|
 | Q24  | I enjoyed the interaction with the text-to-music generation system|  A |
 | Q25  | The data generated by the model are consistent with respect to the desired audio file provided by the user|  A |
 | Q26  | The waiting time of the fine-tuning of the model is proportionate with the quality of the generated audio|  A |
 | Q27  |  The audio generated by the personalized model is better than the audio generated by the based model|  A |
 | Q28  | There is consistency between input prompt and audio(s) generated|  A |
-| Q29  |The use of text-to-music models can support musicians in musical creation endeavours|  A |
+| Q29  | The use of text-to-music models can support musicians in musical creation endeavours|  A |
 | Q30  | I would use this system again|  A |
-| Q31  | Would you include this workflow in your music creative process ? How ?|  D |
-| Q32  |In what context you would use the audio generated by the model ?|  O |
-| Q33  | If you personalized the model, In what context you would use the audio generated by the fine-tuned model?|  D |
-| Q34  |Do you think giving the opportunity to personalize the text-to-music model with own music is good ? Why ?|  O |
+| Q31  | Would you include this workflow in your music creative process? How ?|  D |
+| Q32  | In what context you would use the audio generated by the model?|  O |
+| Q33  | If you personalized the model, inn what context you would use the audio generated by the fine-tuned model?|  D |
+| Q34  | Do you think giving the opportunity to personalize the text-to-music model with own music is good? Why?|  O |
 | Q35  | Insert here your suggestions and comments|  O |
 
 - #### Answers to questions evaluated on a Likert Scale
@@ -290,7 +289,7 @@ Participants who chose _other_ gave the following answers:
 <superscript>*</superscript> answers translated 
 
   
-- #### Q33 _If you personalized the model, In what context you would use the audio generated by the fine-tuned model?_
+- #### Q33 _If you personalized the model, in what context you would use the audio generated by the fine-tuned model?_
 
 - Producing
  
@@ -343,7 +342,7 @@ Participants who chose _other_ gave the following answers:
 <superscript>*</superscript> answers translated 
 
 
-- #### Q34 _Do you think giving the opportunity to personalize the text-to-music model with own music is good ? Why ?_
+- #### Q34 _Do you think giving the opportunity to personalize the text-to-music model with own music is good? Why?_
 
 - I believe that integration of artificial intelligence can give a boost to music production, providing more opportunities for young artists
  
