@@ -110,18 +110,18 @@ type of answer can be found in Table 11 (Appendix A.1).
     <figcaption>N.B. 15.7 % answered  <i>I do NOT play any instrument </i></figcaption>
 </figure>
 
-- #### Q14: _Were you already aware of the existence of AI tools? Which ones ?_
+- #### Q14: _Were you already aware of the existence of AI tools? Which ones?_
   <figure>
   <img src="figures/AI_MUSIC/Q14.png" alt=""/>
     
-    <figcaption>N.B. 16.7 % answered  <i>No, I don't</i> and 8.3% answered <i> <i>Yes, but I don’t remember the names </i></figcaption>
+    <figcaption>N.B. 16.7 % answered  <i>No, I don't</i> and 8.3% answered <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
 
-- #### Q15: _Do you use AI tools? Which ones ?_
+- #### Q15: _Do you use AI tools? Which ones?_
   <figure>
   <img src="figures/AI_MUSIC/Q15.png" alt=""/>
     
-    <figcaption>N.B. 33.3 % answered  <i>No, I don't</i> and 4.2% answered <i> <i>Yes, but I don’t remember the names </i></figcaption>
+    <figcaption>N.B. 33.3 % answered  <i>No, I don't</i> and 4.2% answered <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
 
 - #### Q16: _I’m able to use _____ programming languages._
@@ -134,12 +134,12 @@ type of answer can be found in Table 11 (Appendix A.1).
   <img src="figures/AI_MUSIC/Q17.png" alt=""/>
 </figure>
 
-- #### Q18: _What is your relationship with music ?_
+- #### Q18: _What is your relationship with music?_
   <figure>
   <img src="figures/AI_MUSIC/Q18.png" alt=""/>
 </figure>
 
-Participants who chose _other_ gave the following answers:
+Participants who chose \_other\_ gave the following answers:
 
 - Dj/Mixing Engineer
 
@@ -168,7 +168,7 @@ Participants who chose _other_ gave the following answers:
 - #### Q19: _Were you already aware of the existence of AI tools in text-to-music? Which ones ?_
 <figure>
   <img src="figures/AI_MUSIC/Q19.png" alt=""/>
-<figcaption>N.B. 37.5 % answered  <i>No, I don't</i> and 37.5% answered <i> <i>Yes, but I don’t remember the names </i></figcaption>
+<figcaption>N.B. 37.5 % answered  <i>No, I don't</i> and 37.5% answered <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
 
 - #### Q20: _Do you use text-to-music AI tools ? Which ones ?_
@@ -213,7 +213,7 @@ Participants who chose _other_ gave the following answers:
   <figcaption> Questionnaire 4 Answers (Likert)</figcaption>
 </figure>
 
-- #### Q31  _Would you include this workflow in your music creative process ? How ?_
+- #### Q31  _Would you include this workflow in your music creative process? How?_
 
 <figure>
   <img src="figures/AI_MUSIC/Q18.png" alt=""/>
@@ -432,6 +432,8 @@ Participants who chose _other_ gave the following answers:
 - The sound should be more relevant and pertinent to my requests given by the text, but overall I found the experiment interesting <superscript>*</superscript>
 
 <superscript>*</superscript> answers translated 
+
+
 
 🔗 Users interactions, prompts used as input for generation, and model personalization history can be found here 👉 [User interactions with the model](interactions.md)
 
