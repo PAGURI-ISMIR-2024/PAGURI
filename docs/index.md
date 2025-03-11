@@ -433,5 +433,5 @@ Participants who chose _other_ gave the following answers:
 
 <superscript>*</superscript> answers translated 
 
-:link: Users interactions, prompts used as input for generation, and model personalization history can be found here :point_right: [User interactions with the model](interactions.md)
+🔗 Users interactions, prompts used as input for generation, and model personalization history can be found here 👉 [User interactions with the model](interactions.md)
 
