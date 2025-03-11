@@ -219,7 +219,7 @@ Participants who chose \_other\_ gave the following answers:
   <img src="figures/AI_MUSIC/Q18.png" alt=""/>
 </figure>
 
-Participants who chose _other_ gave the following answers:
+Participants who chose *other* gave the following answers:
 
 - Inspiration and post processing modification
  
