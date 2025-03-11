@@ -139,7 +139,7 @@ type of answer can be found in Table 11 (Appendix A.1).
   <img src="figures/AI_MUSIC/Q18.png" alt=""/>
 </figure>
 
-Participants who chose \_other\_ gave the following answers:
+Participants who chose *other* gave the following answers:
 
 - Dj/Mixing Engineer
 
