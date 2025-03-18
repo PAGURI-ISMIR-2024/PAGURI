@@ -33,7 +33,7 @@
 </figure>
 
 
-### Q7) _I listen to music for _______ per day_
+### Q7) _I listen to music for _______ per day._
 <figure>
   <img src="figures/AI_MUSIC/Q7.png" alt=""/>
 </figure>
@@ -78,7 +78,7 @@
   <img src="figures/AI_MUSIC/Q16.png" alt=""/>
 </figure>
 
-### Q17) _I spend _______ on programming languages_
+### Q17) _I spend _______ on programming languages._
 <figure>
   <img src="figures/AI_MUSIC/Q17.png" alt=""/>
 </figure>
@@ -114,13 +114,13 @@ Participants who chose *other* gave the following answers:
 
 <superscript>*</superscript> answers translated 
 
-### Q19) _Were you already aware of the existence of AI tools in text-to-music? Which ones ?_
+### Q19) _Were you already aware of the existence of AI tools in text-to-music? Which ones?_
 <figure>
   <img src="figures/AI_MUSIC/Q19.png" alt=""/>
 <figcaption>N.B. 37.5 % answered  <i>No, I don't</i> and 37.5% answered <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
 
-### Q20) _Do you use text-to-music AI tools ? Which ones ?_
+### Q20) _Do you use text-to-music AI tools? Which ones?_
 <figure>
   <img src="figures/AI_MUSIC/Q20.png" alt=""/>
 </figure>
