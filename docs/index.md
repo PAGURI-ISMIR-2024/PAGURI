@@ -58,6 +58,12 @@ type of answer can be found in Table 11 (Appendix A.1).
 
 📊 🔗 **[_Text-to-Music Interaction (Model Evaluation)_ survey (questions and answers)](survey2.md)**
 
+📊 🔗 **[_Final Survey_ (questions and answers)](survey3.md)**
+
+## Users' interactions with the model
+
+🔗 **Users' interactions, prompts used as input for generation, and model personalization history can be found here 👉 [User interactions with the model](interactions.md)**
+
 <!-- ### Musical knowledge and experience with AI tools
 
 | ID  | Question  |  Type | 
@@ -194,8 +200,6 @@ Participants who chose *other* gave the following answers:
   <img src="figures/MODEL_EVAL/boxplot.png" alt=""/>
   <figcaption> Questionnaire 3 Answers (Likert)</figcaption>
 </figure>
-
--->
 
 ## Final Survey and Answers
 
@@ -440,7 +444,5 @@ Participants who chose *other* gave the following answers:
 
 <superscript>*</superscript> answers translated 
 
-
-
-🔗 **Users interactions, prompts used as input for generation, and model personalization history can be found here 👉 [User interactions with the model](interactions.md)**
+-->
 
