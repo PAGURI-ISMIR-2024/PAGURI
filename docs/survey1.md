@@ -1,8 +1,6 @@
 # Musical knowledge and experience with AI tools
 
-## Musical knowledge and experience with AI tools
-
-### Questions and type of questions
+## Questions and type of questions
 
 | ID  | Question  |  Type | 
 |:---|:---|:---|
@@ -27,12 +25,13 @@
 | Q19  |Were you already aware of the existence of AI tools in text-to-music? Which ones ?|D   |
 | Q20  |Do you use text-to-music AI tools ? Which ones ?| D  |
 
-#### Answers to questions evaluated on a Likert Scale
+## Answers to _Musical knowledge and experience with AI tools_ survey
 
 <figure>
   <img src="figures/AI_MUSIC/ai_music_quest_likert.png" alt=""/>
-  <figcaption> Questionnaire 2 Answers (Likert)</figcaption>
+  <figcaption style="display: block; text-align: center; margin: 0 auto;">Answers evaluated on a Likert scale</figcaption>
 </figure>
+
 
 - #### Q7: _I listen to music for _______ per day_
 <figure>
