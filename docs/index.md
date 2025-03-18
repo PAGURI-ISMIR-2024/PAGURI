@@ -54,9 +54,9 @@ type of answer can be found in Table 11 (Appendix A.1).
 
 ## Data Questionnaire and Answers
 
-🔗 **[Musical knowledge and experience with AI tools (questions and answer)](interactions.md)**
+🔗 **[_Musical knowledge and experience with AI tools_ survey (questions and answers)](suvrye1.md)**
 
-### Musical knowledge and experience with AI tools
+<!-- ### Musical knowledge and experience with AI tools
 
 | ID  | Question  |  Type | 
 |:---|:---|:---|
@@ -178,6 +178,8 @@ Participants who chose *other* gave the following answers:
 <figure>
   <img src="figures/AI_MUSIC/Q20.png" alt=""/>
 </figure>
+
+-->
 
 ## Text-to-Music Interaction (Model Evaluation) Questionnaire and Answers
 
