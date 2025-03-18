@@ -33,57 +33,57 @@
 </figure>
 
 
-- #### Q7: _I listen to music for _______ per day_
+### Q7) _I listen to music for _______ per day_
 <figure>
   <img src="figures/AI_MUSIC/Q7.png" alt=""/>
 </figure>
 
-- #### Q8: _I engaged in regular, daily practice of a musical instrument (including voice) for ____ years_
+### Q8) _I engaged in regular, daily practice of a musical instrument (including voice) for ____ years_
 <figure>
   <img src="figures/AI_MUSIC/Q8.png" alt=""/>
 </figure>
 
-- #### Q9: _At the peak of my interest, I practiced _____ hours per day on my primary instrument._
+### Q9) _At the peak of my interest, I practiced _____ hours per day on my primary instrument._
 <figure>
   <img src="figures/AI_MUSIC/Q9.png" alt=""/>
 </figure>
 
-- #### Q10: _I can play ______ musical instruments._
+### Q10) _I can play ______ musical instruments._
 <figure>
   <img src="figures/AI_MUSIC/Q10.png" alt=""/>
 </figure>
 
-- #### Q11: _What kind of instrument can you play? Ex: piano, guitar, flute, etc..._
+### Q11) _What kind of instrument can you play? Ex: piano, guitar, flute, etc..._
 <figure>
   <img src="figures/AI_MUSIC/Q11.png" alt=""/>
     <figcaption>N.B. 15.7 % answered  <i>I do NOT play any instrument </i></figcaption>
 </figure>
 
-- #### Q14: _Were you already aware of the existence of AI tools? Which ones?_
+### Q14) _Were you already aware of the existence of AI tools? Which ones?_
   <figure>
   <img src="figures/AI_MUSIC/Q14.png" alt=""/>
     
     <figcaption>N.B. 16.7 % answered  <i>No, I don't</i> and 8.3% answered <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
 
-- #### Q15: _Do you use AI tools? Which ones?_
+### Q15) _Do you use AI tools? Which ones?_
   <figure>
   <img src="figures/AI_MUSIC/Q15.png" alt=""/>
     
     <figcaption>N.B. 33.3 % answered  <i>No, I don't</i> and 4.2% answered <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
 
-- #### Q16: _I’m able to use _____ programming languages._
+### Q16) _I’m able to use _____ programming languages._
   <figure>
   <img src="figures/AI_MUSIC/Q16.png" alt=""/>
 </figure>
 
-- #### Q17: _I spend _______ on programming languages_
+### Q17) _I spend _______ on programming languages_
 <figure>
   <img src="figures/AI_MUSIC/Q17.png" alt=""/>
 </figure>
 
-- #### Q18: _What is your relationship with music?_
+### Q18) _What is your relationship with music?_
   <figure>
   <img src="figures/AI_MUSIC/Q18.png" alt=""/>
 </figure>
@@ -114,13 +114,13 @@ Participants who chose *other* gave the following answers:
 
 <superscript>*</superscript> answers translated 
 
-- #### Q19: _Were you already aware of the existence of AI tools in text-to-music? Which ones ?_
+### Q19) _Were you already aware of the existence of AI tools in text-to-music? Which ones ?_
 <figure>
   <img src="figures/AI_MUSIC/Q19.png" alt=""/>
 <figcaption>N.B. 37.5 % answered  <i>No, I don't</i> and 37.5% answered <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
 
-- #### Q20: _Do you use text-to-music AI tools ? Which ones ?_
+### Q20) _Do you use text-to-music AI tools ? Which ones ?_
 <figure>
   <img src="figures/AI_MUSIC/Q20.png" alt=""/>
 </figure>
