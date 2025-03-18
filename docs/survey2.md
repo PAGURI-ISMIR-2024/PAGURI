@@ -1,4 +1,4 @@
-# Text-to-Music Interaction (Model Evaluation) Questionnaire and Answers
+# Text-to-Music Interaction (Model Evaluation) 
 
 ## Questions and type of questions
 
