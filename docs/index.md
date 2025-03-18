@@ -56,6 +56,8 @@ type of answer can be found in Table 11 (Appendix A.1).
 
 📊 🔗 **[_Musical knowledge and experience with AI tools_ survey (questions and answers)](survey1.md)**
 
+📊 🔗 **[_Text-to-Music Interaction (Model Evaluation)_ survey (questions and answers)](survey2.md)**
+
 <!-- ### Musical knowledge and experience with AI tools
 
 | ID  | Question  |  Type | 
@@ -179,8 +181,6 @@ Participants who chose *other* gave the following answers:
   <img src="figures/AI_MUSIC/Q20.png" alt=""/>
 </figure>
 
--->
-
 ## Text-to-Music Interaction (Model Evaluation) Questionnaire and Answers
 
 | ID  | Question  |  Type | 
@@ -194,6 +194,8 @@ Participants who chose *other* gave the following answers:
   <img src="figures/MODEL_EVAL/boxplot.png" alt=""/>
   <figcaption> Questionnaire 3 Answers (Likert)</figcaption>
 </figure>
+
+-->
 
 ## Final Survey and Answers
 
