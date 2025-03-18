@@ -54,7 +54,7 @@ type of answer can be found in Table 11 (Appendix A.1).
 
 ## Data Questionnaire and Answers
 
-🔗 **[_Musical knowledge and experience with AI tools_ survey (questions and answers)](suvrye1.md)**
+🔗 **[_Musical knowledge and experience with AI tools_ survey (questions and answers)](survey1.md)**
 
 <!-- ### Musical knowledge and experience with AI tools
 
