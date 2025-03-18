@@ -50,8 +50,11 @@ type of answer can be found in Table 11 (Appendix A.1).
 - **Type O**: open answers in which the user can respond openly through text (□ : .......... )
 
 
-## Demographic Data Questionnaire and Answers
+<!-- ## Demographic Data Questionnaire and Answers -->
 
+## Data Questionnaire and Answers
+
+🔗 **[Musical knowledge and experience with AI tools (questions and answer)](interactions.md)**
 
 ### Musical knowledge and experience with AI tools
 
