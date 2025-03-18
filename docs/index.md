@@ -9,6 +9,35 @@
 
 In recent years, text-to-music models have been the biggest breakthrough in automatic music generation. While they are unquestionably a showcase of technological progress, it is not clear yet whether and how they can realistically be integrated and used as effective tools in the artistic practice of musicians and music practitioners. This paper aims to address this question via Prompt Audio Generation User Research Investigation (PAGURI), a user experience study where we leverage recent text-to-music developments to study how musicians and practitioners interact with these systems, evaluating their satisfaction levels. We developed an online tool where users are asked to generate and/or modify music samples of their choice by applying recently proposed personalization techniques, based on fine-tuning and/or prompting a text-to-music model. Through the use of questionnaires and interviews, we analyzed how participants interacted with the proposed tool. Results show that even if the audio samples generated and their quality may not always meet user expectations, the majority acknowledge consistency between input prompts and generated audio. Moreover, they express willingness to incorporate the proposed tool into their creative process. Users also offer suggestions on how the system could be improved and integrated into their music practice.
 
+## Questionnaire Description
+The answers to the questionnaires are of 5 types:
+- **Type A**: multiple choice options structured on a Likert scale from 1 to 5, where each score quantifies the
+level of approval in an increasing way, as shown in table 8 (appendix A.1).
+- **Type B**: multiple choice options representing different time frames. This kind of answer is provided to a
+question regarding the amount of time a user spends or dedicates to a specific action, as shown in table 9
+(Appendix A.1).
+- **Type C**: multiple choice consisting of numbers ranging from "0" to "4 or more". This kind of answer is
+linked to a quantitative question. 
+- **Type D**: a mixture of multiple-choice and open answers. Typically, there are one or two closed choices
+("No..." or "Yes, but ...") and one open answer (identified with □: .......... ). More details regarding this
+type of answer can be found in Table 11 (Appendix A.1).
+- **Type O**: open answers in which the user can respond openly through text (□ : .......... )
+
+
+<!-- ## Demographic Data Questionnaire and Answers -->
+
+## Data Questionnaire and Answers
+
+📊 🔗 **[_Musical knowledge and experience with AI tools_ survey (questions and answers)](survey1.md)**
+
+📊 🔗 **[_Text-to-Music Interaction (Model Evaluation)_ survey (questions and answers)](survey2.md)**
+
+📊 🔗 **[_Final Survey_ (questions and answers)](survey3.md)**
+
+## Users' interactions with the model
+
+🔗 **Users' interactions, prompts used as input for generation, and model personalization history can be found here 👉 [User interactions with the model](interactions.md)**
+
 ## paGUIri
 The graphical user interface of PAGURI.
 <figure>
