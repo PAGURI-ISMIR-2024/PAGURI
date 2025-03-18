@@ -241,6 +241,4 @@ P23: "Create a VST plugin with this application, fix the generation of silence o
 
 P24: "The sound should be more relevant and pertinent to my requests given by the text, but overall I found the experiment interesting<superscript>*</superscript>"
 
-
-
-<superscript>*</superscript> answers translated from Italian
+<superscript>*</superscript> answers translated 
