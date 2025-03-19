@@ -578,60 +578,6 @@ Q23) The generated audio(s) is consistent with respect to the input prompt
 
 | Iteration | Prompt | 
 |----|-------------| 
-|1|A head smashed on a snare drum| 
-|2|Distorted bagpipe playing jazz| 
-|3|underwater bossa nova classical guitar| 
-|4|Punk drum fill| 
-|5|slap bass with wah wah| 
-|6|askebbenifaf thrash metal but hip hop
-|7|askebbenifaf thrash metal hip hop
-|8|askebbenifaf hip hop
-|9|yeere drill metal
-|10|yeere ethnic
-|11|yeere thrash metal
-|12|yeere violin
-|13|yeere drill violin
-
-##### Q21) The audio(s) generated is consistent with respect to my expectations
-<figure> <img src="figures/ITERATIONS/ID_301112_Q1.png" alt=""/> </figure>
-
-##### Q22) The quality of the audio(s) generated is consistent with my expectations
-<figure> <img src="figures/ITERATIONS/ID_301112_Q2.png" alt=""/> </figure>
-
-##### Q23) The generated audio(s) is consistent with respect to the input prompt
-<figure> <img src="figures/ITERATIONS/ID_301112_Q3.png" alt=""/> </figure>
-
-
-## P23 (Solo artist)
-
-| Iteration | Prompt | 
-|----|-------------| 
-|1|a sound of violin| 
-|2|a sound that reminds to dark emotion| 
-|3|music that recalls the melancholy reffering to rain | 
-|4|two lovers sitting in a park | 
-|5|dancing in a toy shop| 
-|6|sleeping sobbing| 
-|7|sleeping snoring| 
-|8|a string concert with harpsichord| 
-|9|a vocal trance female music | 
-|10|a sound of breaking bottles of glass| 
-|11|a sound of breaking bottles of glass| 
-
-
-##### Q21) The audio(s) generated is consistent with respect to my expectations
-<figure> <img src="figures/ITERATIONS/ID_301617_Q1.png" alt=""/> </figure>
-
-##### Q22) The quality of the audio(s) generated is consistent with my expectations
-<figure> <img src="figures/ITERATIONS/ID_301617_Q2.png" alt=""/> </figure>
-
-##### Q23) The generated audio(s) is consistent with respect to the input prompt
-<figure> <img src="figures/ITERATIONS/ID_301617_Q3.png" alt=""/> </figure>
-
-## P24 (Dance teacher)
-
-| Iteration | Prompt | 
-|----|-------------| 
 |1|The sound of two metal objects clashing under water| 
 |2|The sound of a guitar in a soundproof room| 
 |3|The sound of a guitar in a soundproof room and i'm listening from inside the room| 
@@ -657,4 +603,61 @@ Q23) The generated audio(s) is consistent with respect to the input prompt
 
 ##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_301718_Q3.png" alt=""/> </figure>
+
+
+## P23 (Solo artist)
+
+| Iteration | Prompt | 
+|----|-------------| 
+|1|A head smashed on a snare drum| 
+|2|Distorted bagpipe playing jazz| 
+|3|underwater bossa nova classical guitar| 
+|4|Punk drum fill| 
+|5|slap bass with wah wah| 
+|6|askebbenifaf thrash metal but hip hop
+|7|askebbenifaf thrash metal hip hop
+|8|askebbenifaf hip hop
+|9|yeere drill metal
+|10|yeere ethnic
+|11|yeere thrash metal
+|12|yeere violin
+|13|yeere drill violin
+
+##### Q21) The audio(s) generated is consistent with respect to my expectations
+<figure> <img src="figures/ITERATIONS/ID_301112_Q1.png" alt=""/> </figure>
+
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
+<figure> <img src="figures/ITERATIONS/ID_301112_Q2.png" alt=""/> </figure>
+
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
+<figure> <img src="figures/ITERATIONS/ID_301112_Q3.png" alt=""/> </figure>
+
+## P24 (Dance teacher)
+
+| Iteration | Prompt | 
+|----|-------------| 
+|1|a sound of violin| 
+|2|a sound that reminds to dark emotion| 
+|3|music that recalls the melancholy reffering to rain | 
+|4|two lovers sitting in a park | 
+|5|dancing in a toy shop| 
+|6|sleeping sobbing| 
+|7|sleeping snoring| 
+|8|a string concert with harpsichord| 
+|9|a vocal trance female music | 
+|10|a sound of breaking bottles of glass| 
+|11|a sound of breaking bottles of glass| 
+
+
+##### Q21) The audio(s) generated is consistent with respect to my expectations
+<figure> <img src="figures/ITERATIONS/ID_301617_Q1.png" alt=""/> </figure>
+
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
+<figure> <img src="figures/ITERATIONS/ID_301617_Q2.png" alt=""/> </figure>
+
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
+<figure> <img src="figures/ITERATIONS/ID_301617_Q3.png" alt=""/> </figure>
+
+
+
 
