@@ -32,7 +32,7 @@
 
 | Iteration | Prompt | 
 |----|-------------| 
-|1|Hip| 
+|1|Hip-hop drums with big kick and reverb snare| 
 |2|classic hip hop drums boom bap| 
 |3| hip hop drums 90 bpm | 
 |4|dark flute in a big chamber, emotionally | 
