@@ -1,7 +1,7 @@
 
 # User interactions with the model
 
-# User 220910
+## P1 (Music player in a band or orchestra)
 
 | Iteration | Prompt | 
 |----|-------------| 
@@ -28,7 +28,8 @@
   <img src="figures/ITERATIONS/ID_220910_Q3.png" alt=""/>
 </figure>
 
-## User 221112
+## P2 (Dj/Mixing Engineer)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|Hip| 
@@ -54,7 +55,8 @@
 <figure> <img src="figures/ITERATIONS/ID_221112_Q3.png" alt=""/> </figure>
 
 
-## User 221213
+## P3 (Music producer, musician)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|Piano bar loop| 
@@ -83,7 +85,8 @@ Q22: The quality of the audio(s) generated is consistent with my expectations
 Q23: The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_221213_Q3.png" alt=""/> </figure>
 
-## User 221415
+## P4 (Play music non professionally)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|clear and catchy disco bar lounge funky music| 
@@ -108,7 +111,8 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_221415_Q3.png" alt=""/> </figure>
 
 
-## User 221516
+## P5 (DJ and/or music producer)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|a song about summer containing an electric guitar lead on top of an ukulele rhythm and a glockenspiel. The glockenspiel is off| 
@@ -127,7 +131,8 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 ##### Q23: The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_221516_Q3.png" alt=""/> </figure>
 
-## User 222122
+## P6 (Owner of music label)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|a piano sound| 
@@ -150,7 +155,8 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 ##### Q23: The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_222122_Q3.png" alt=""/> </figure>
 
-## User 222223
+## P7 (Dj and/or music producer)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|a trap piano with dark notes using a minor scale| 
@@ -172,7 +178,8 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 ##### Q23: The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_222223_Q3.png" alt=""/> </figure>
 
-## User 231415
+## P8 (Singer)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|I like to have a musical style piece with some contamination from progressive rock and something a little bit grotesque| 
@@ -205,7 +212,8 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 ##### Q23: The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_231415_Q3.png" alt=""/> </figure>
 
-## User 231516
+## P9 (Music player ina band or orchestra)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|Big band | 
