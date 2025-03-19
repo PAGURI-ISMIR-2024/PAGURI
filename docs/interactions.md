@@ -13,17 +13,17 @@
 |6|a sound of fef with rock drums and bass, Eric Clapton style| 
 |7|a sound of fef with metal drums and bass, electric guitar fast riff, Iron Maiden style| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure>
   <img src="figures/ITERATIONS/ID_220910_Q1.png" alt=""/>
 </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure>
   <img src="figures/ITERATIONS/ID_220910_Q2.png" alt=""/>
 </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure>
   <img src="figures/ITERATIONS/ID_220910_Q3.png" alt=""/>
 </figure>
@@ -45,13 +45,13 @@
 |11|acoustic guitar, pop, love, bright| 
 |12|solo acoustic guitar| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_221112_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_221112_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_221112_Q3.png" alt=""/> </figure>
 
 
@@ -78,11 +78,11 @@
 |17|baggy bass shot| 
 |18|a sound of baggy basses | 
 
-Q21: The audio(s) generated is consistent with respect to my expectations
+Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_221213_Q1.png" alt=""/> </figure>
-Q22: The quality of the audio(s) generated is consistent with my expectations
+Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_221213_Q2.png" alt=""/> </figure>
-Q23: The generated audio(s) is consistent with respect to the input prompt
+Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_221213_Q3.png" alt=""/> </figure>
 
 ## P4 (Play music non professionally)
@@ -101,13 +101,13 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |10|punk 90s| 
 |11|punk 90s| 
  
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_221415_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_221415_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_221415_Q3.png" alt=""/> </figure>
 
 
@@ -122,13 +122,13 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |5|A kalimba with a harsh bitcrusher applied to it| 
 |6|A abcdef kalimba with a bitcrusher applied to it| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_221516_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_221516_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_221516_Q3.png" alt=""/> </figure>
 
 ## P6 (Owner of music label)
@@ -146,13 +146,13 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |9|a bep pop beat 90s style| 
 |10|indie syle| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_222122_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_222122_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_222122_Q3.png" alt=""/> </figure>
 
 ## P7 (Dj and/or music producer)
@@ -169,13 +169,13 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |8|ppp pop music with blm style| 
 |9|ppp pop music with blm style| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_222223_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_222223_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_222223_Q3.png" alt=""/> </figure>
 
 ## P8 (Singer)
@@ -203,16 +203,16 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |19|a myk singing voice| 
 |20|a myk singing voice in a ppb pop beat| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_231415_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_231415_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_231415_Q3.png" alt=""/> </figure>
 
-## P9 (Music player ina band or orchestra)
+## P9 (Music player in a band or orchestra)
 
 | Iteration | Prompt | 
 |----|-------------| 
@@ -238,16 +238,17 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |20|abc my way sinatra song
 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_231516_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_231516_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_231516_Q3.png" alt=""/> </figure>
 
-## User 231617
+## P10 (Dance teacher)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|a fast sound that recalls the speed of the bees| 
@@ -265,16 +266,17 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |13|sks disco music 80s  with xilophone instrument| 
 |14|sks disco music 80s  with xilophone instrument| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_231617_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_231617_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_231617_Q3.png" alt=""/> </figure>
 
-## User 231819
+## P11 (Love to listen to music)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|I see your face before my eyes. I'm falling into darkness. Why must I fight to stay alive? Heores fallen. Wake me can't you hear me calling.| 
@@ -291,16 +293,17 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |12|dragonball| 
 |13|dalton| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_231819_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_231819_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_231819_Q3.png" alt=""/> </figure>
 
-## User 261112
+## P12 (Music player in a band or orchestra)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|spanish anthem| 
@@ -311,16 +314,17 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |6|drums with topi disco music style | 
 |7|spanish entry for eurovision in sweeden| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_261112_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_261112_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_261112_Q3.png" alt=""/> </figure>
 
-## User 261415 
+## P13 (Dj and/or music producer)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|hard lead| 
@@ -336,16 +340,17 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |11|fin hard synth 
 |12|fin hard synth sound 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_261415_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_261415_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_261415_Q3.png" alt=""/> </figure>
 
-## User 261516
+## P14 (Music player in a acoustic duo) 
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|heavy guitar riff| 
@@ -364,17 +369,18 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |14|shouts of a really happy guy| 
 |15|palm mute arpeggio on electric guitar with distortion| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_261516_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_261516_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_261516_Q3.png" alt=""/> </figure>
 
 
-## User 261718
+## P15 (Love to listen to music)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|rock style| 
@@ -403,17 +409,18 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |24|tempest| 
 |25|storm| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_261718_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_261718_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_261718_Q3.png" alt=""/> </figure>
 
 
-## User 261819
+## P16 (Love to listen to music)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|A sound of an electric guitar| 
@@ -429,17 +436,18 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |11|A rubber chicken singing a song in the style of sas pirate metal| 
 |12|a sas pirate metal song, but with the lyrics made by a door bell ring| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_261819_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_261819_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_261819_Q3.png" alt=""/> </figure>
 
 
-## User 271011
+## P17 (Music player in a band or orchestra)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|a sound of guitar| 
@@ -455,17 +463,18 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |11|sks in acoustic style music| 
 |12|acoustic style music guitar| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_271011_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_271011_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_271011_Q3.png" alt=""/> </figure>
 
 
-## User 271415
+## P18 (Music player in a band or orchestra)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|flute with piano and guitar, environmental audio| 
@@ -477,17 +486,18 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |7|adagio flute with piano and marimba| 
 |8|jazz music with flute| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_271415_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_271415_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_271415_Q3.png" alt=""/> </figure>
 
 
-## User 271516
+## P19 (DJ or/and music producer)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|daft punk style song| 
@@ -506,17 +516,18 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |14|reggaeton punk| 
 |15|reggaeton punk| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_271516_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_271516_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_271516_Q3.png" alt=""/> </figure>
 
 
-## User 271617
+## P20 (Conservatory student)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|liuth sound| 
@@ -530,17 +541,18 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |9|baby shark| 
 |10|baby shark latin music| 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_271617_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_271617_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_271617_Q3.png" alt=""/> </figure>
 
 
-## User 271718
+## P21 (Former band member, amateur arranger)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|regular cowbell| 
@@ -552,17 +564,18 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |7|crime scene for hot shot videogame with slow bass shots in the beginning, fast rhythm after, accompained with deep bass fx| 
 |8|music for a cliffhang moment videogame shot drum and bass| 
   
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_271718_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_271718_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_271718_Q3.png" alt=""/> </figure>
 
 
-## User 301112
+## P22 (Love to listen to music)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|A head smashed on a snare drum| 
@@ -579,17 +592,18 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |12|yeere violin
 |13|yeere drill violin
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_301112_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_301112_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_301112_Q3.png" alt=""/> </figure>
 
 
-## User 301617
+## P23 (Solo artist)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|a sound of violin| 
@@ -605,16 +619,17 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |11|a sound of breaking bottles of glass| 
 
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_301617_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_301617_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_301617_Q3.png" alt=""/> </figure>
 
-## User 301718
+## P24 (Dance teacher)
+
 | Iteration | Prompt | 
 |----|-------------| 
 |1|The sound of two metal objects clashing under water| 
@@ -634,12 +649,12 @@ Q23: The generated audio(s) is consistent with respect to the input prompt
 |15|A disco music played on a typewriter| 
 |16|the sound of a harpsichord and a piano playing the same song
 
-##### Q21: The audio(s) generated is consistent with respect to my expectations
+##### Q21) The audio(s) generated is consistent with respect to my expectations
 <figure> <img src="figures/ITERATIONS/ID_301718_Q1.png" alt=""/> </figure>
 
-##### Q22: The quality of the audio(s) generated is consistent with my expectations
+##### Q22) The quality of the audio(s) generated is consistent with my expectations
 <figure> <img src="figures/ITERATIONS/ID_301718_Q2.png" alt=""/> </figure>
 
-##### Q23: The generated audio(s) is consistent with respect to the input prompt
+##### Q23) The generated audio(s) is consistent with respect to the input prompt
 <figure> <img src="figures/ITERATIONS/ID_301718_Q3.png" alt=""/> </figure>
 
