@@ -590,7 +590,7 @@ Q23) The generated audio(s) is consistent with respect to the input prompt
 |10|the sound of a single person talking in italian| 
 |11|the sound of drum in space| 
 |12|The sound of music from a hooligan's car| 
-|13|A j| 
+|13|A j-pop music| 
 |14|the sound of a 56k modem| 
 |15|A disco music played on a typewriter| 
 |16|the sound of a harpsichord and a piano playing the same song
