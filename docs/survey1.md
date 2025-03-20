@@ -17,13 +17,13 @@
 | Q11  |What kind of instrument can you play? Ex: piano, guitar, flute, etc...|   D|
 | Q12  |I often read or search the internet for things related to AI tools.| A  |
 | Q13  |AI can be a tool to support human activities.|A   |
-| Q14  |Were you already aware of the existence of AI tools? Which ones ?| D  |
-| Q15  |Do you use AI tools? Which ones ?| D  |
+| Q14  |Were you already aware of the existence of AI tools? Which ones?| D  |
+| Q15  |Do you use AI tools? Which ones?| D  |
 | Q16  |I’m able to use _____ programming languages.| C  |
 | Q17  |I spend _______ on programming languages.|B   |
-| Q18  |What is your relationship with music ?| O  |
-| Q19  |Were you already aware of the existence of AI tools in text-to-music? Which ones ?|D   |
-| Q20  |Do you use text-to-music AI tools ? Which ones ?| D  |
+| Q18  |What is your relationship with music?| O  |
+| Q19  |Were you already aware of the existence of AI tools in text-to-music? Which ones?|D   |
+| Q20  |Do you use text-to-music AI tools? Which ones?| D  |
 
 ## Answers to _Musical knowledge and experience with AI tools_ survey
 
