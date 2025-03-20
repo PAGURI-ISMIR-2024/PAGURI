@@ -62,14 +62,12 @@
 ### Q14) _Were you already aware of the existence of AI tools? Which ones?_
   <figure>
   <img src="figures/AI_MUSIC/Q14.png" alt=""/>
-    
     <figcaption>N.B. 16.7 % answered  <i>No, I don't</i> and 8.3% answered <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
 
 ### Q15) _Do you use AI tools? Which ones?_
   <figure>
   <img src="figures/AI_MUSIC/Q15.png" alt=""/>
-    
     <figcaption>N.B. 33.3 % answered  <i>No, I don't</i> and 4.2% answered <i>Yes, but I don’t remember the names </i></figcaption>
 </figure>
 
